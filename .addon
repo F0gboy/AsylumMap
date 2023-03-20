@@ -1,0 +1,16 @@
+{
+  "Title": "asylumhaha",
+  "Type": "map",
+  "Org": "local",
+  "Ident": "asylumhaha",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "Metadata": {
+    "ProjectTemplate": null
+  }
+}
