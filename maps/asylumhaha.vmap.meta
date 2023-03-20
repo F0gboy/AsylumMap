@@ -5,12 +5,15 @@
     "luke.metal_bigcabinet#12894",
     "additionproject.lantern_01#12417",
     "sneed.trash_bag#6203",
+    "fish.mattress#1135",
     "niclude.hl2_fountain#9773",
     "additionproject.goldchandelier#12413",
     "baik.watertank#12513",
     "andiq.plaster002#12701",
     "exeros.radiator#1457"
   ],
-  "game_packages": [],
+  "game_packages": [
+    "local.puzzle_game"
+  ],
   "addon_packages": []
 }
