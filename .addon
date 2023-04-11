@@ -1,7 +1,7 @@
 {
-  "Title": "asylumhaha",
+  "Title": "Aslyum",
   "Type": "map",
-  "Org": "local",
+  "Org": "ngi",
   "Ident": "asylumhaha",
   "Tags": null,
   "Schema": 1,
@@ -12,6 +12,10 @@
   "CodePath": null,
   "PackageReferences": [],
   "Metadata": {
-    "ProjectTemplate": null
+    "ProjectTemplate": null,
+    "Summary": "Asylum map, WIP",
+    "Description": "Made for a school project, supposed to be a puzzle game for teambuilding.",
+    "Public": false,
+    "ReplaceTags": "night dark horror asylum puzzle"
   }
 }

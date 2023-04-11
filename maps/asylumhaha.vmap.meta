@@ -1,17 +1,17 @@
 {
   "cloud_packages": [
-    "additionproject.lantern_01#12417",
+    "gkaf.plaster_wall#8533",
     "penguins.hanging_picture#12034",
     "exeros.radiator#1457",
-    "luke.metal_bigcabinet#12894",
-    "niclude.hl2_fountain#9773",
-    "fish.key#12817",
-    "gkaf.plaster_wall#8533",
     "exeros.door01left03#1477",
     "baik.watertank#12513",
     "sneed.trash_bag#6203",
-    "andiq.plaster002#12701",
-    "additionproject.goldchandelier#12413"
+    "additionproject.goldchandelier#12413",
+    "additionproject.lantern_01#12417",
+    "luke.metal_bigcabinet#12894",
+    "niclude.hl2_fountain#9773",
+    "fish.key#12817",
+    "andiq.plaster002#12701"
   ],
   "game_packages": [
     "local.puzzle_game"
